@@ -1,0 +1,5 @@
+channel,brand,sum,sum_of_brand,total_amount,percent_of_brand_sales
+chain,marlboro,60399,383844,1304304,0.29
+nonchain,marlboro,323445,383844,1304304,0.29
+chain,parliament,204145,920460,1304304,0.71
+nonchain,parliament,716315,920460,1304304,0.71
