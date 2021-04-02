@@ -73,8 +73,8 @@ style='color:black'>Примечание</span></i></b><span style='color:black'
 уникальную кассу).</span></p>
 
 <p class=MsoNormal>Ссылка на архив: <a
-href="https://drive.google.com/file/d/1jtypNNuAfbmoVZXfbxhs419sSx1z6Y5X/view?usp=sharing"><span
-style='color:#0563C1'>https://drive.google.com/file/d/1jtypNNuAfbmoVZXfbxhs419sSx1z6Y5X/view?usp=sharing</span></a></p>
+href="https://drive.google.com/file/d/1P4zGtF90Eo3eNDAxAlHBLS-fiLZdJlv9/view?usp=sharing"><span
+style='color:#0563C1'>test_base.zip</span></a></p>
 
 <p class=MsoNormal style='margin-top:10.0pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:28.8pt;margin-bottom:.0001pt;text-indent:-28.8pt;page-break-after:
